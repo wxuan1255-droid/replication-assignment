@@ -1,0 +1,10 @@
+# Generated/processed data (fully reproducible by running code/01_data_cleaning.py)
+data/processed/*.pkl
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS
+.DS_Store

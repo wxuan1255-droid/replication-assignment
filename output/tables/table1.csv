@@ -1,0 +1,27 @@
+sample,outcome,variable,mean,sd,N
+BCS,lag_seasonwins,Season Wins,5.862908837856645,2.6478552103960062,1437
+BCS,lag_seasongames,Season Games,10.75365344467641,0.7697236233983231,1437
+BCS,lag_exp_wins,Expected Wins,5.80235386465237,1.9353072509228002,1437
+BCS,alumni_ops_athletics,Alumni Athletic Operating Donations,3953265.6121212123,3804502.038822059,495
+BCS,alum_non_athl_ops,Alumni Nonathletic Operating Donations,11604026.848484848,14817450.165233547,495
+BCS,alumni_total_giving,Total Alumni Donations,27610042.828413285,30875879.386267185,1084
+BCS,vse_alum_giving_rate,Alumni Giving Rate,0.1668100506067276,0.07672546058893204,1104
+BCS,usnews_academic_rep_new,Academic Reputation,3.4986746311187744,0.5373221039772034,679
+BCS,applicants,Applicants,16814.852083333335,8043.260118964931,480
+BCS,acceptance_rate,Acceptance Rate,66.67374517374517,18.506134923988203,1036
+BCS,firsttime_outofstate,First-Time Out-of-State Enrollment,1037.7889390519188,591.2678224703393,886
+BCS,first_time_instate,First-Time In-State Enrollment,2810.793453724605,1536.9676276239124,886
+BCS,sat_25,25th Percentile SAT,1101.092807424594,103.25523003481179,431
+Non-BCS,lag_seasonwins,Season Wins,4.563380281690141,2.5079142091803295,923
+Non-BCS,lag_seasongames,Season Games,10.509209100758396,0.9706493804597696,923
+Non-BCS,lag_exp_wins,Expected Wins,4.690074035753289,1.6901163562647001,923
+Non-BCS,alumni_ops_athletics,Alumni Athletic Operating Donations,694784.9023255814,835979.0244984191,430
+Non-BCS,alum_non_athl_ops,Alumni Nonathletic Operating Donations,1992362.341860465,3568827.9936200194,430
+Non-BCS,alumni_total_giving,Total Alumni Donations,5358785.363892807,6751142.399322737,709
+Non-BCS,vse_alum_giving_rate,Alumni Giving Rate,0.10275676846504211,0.06103718280792236,733
+Non-BCS,usnews_academic_rep_new,Academic Reputation,2.7117810249328613,0.4311986267566681,365
+Non-BCS,applicants,Applicants,9659.852777777778,6402.504308345029,360
+Non-BCS,acceptance_rate,Acceptance Rate,75.5081081081081,15.789494834740786,555
+Non-BCS,firsttime_outofstate,First-Time Out-of-State Enrollment,461.0833333333333,524.5207971986853,612
+Non-BCS,first_time_instate,First-Time In-State Enrollment,2149.8202614379084,1073.133799182204,612
+Non-BCS,sat_25,25th Percentile SAT,983.2587412587412,105.93879154918295,286
